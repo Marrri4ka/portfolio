@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Resume Preview]()]()
+https://marrri4ka.github.io/portfolio/
 
 **[View Live Preview]()**
 
